@@ -8,7 +8,7 @@ $pageTitle = 'Tambah Berita - Admin Praktikum';
     <meta name="viewport" content="width=device-width, initial-scale=1"> 
     <title><?= htmlspecialchars($pageTitle) ?></title> 
     <link rel="stylesheet" href="../assets/css/style.css"> 
-</head> 
+</head>  
 <body> 
 <section class="section"> 
     <div class="container article-body"> 
